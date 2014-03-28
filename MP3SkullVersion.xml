@@ -4,7 +4,7 @@
     <wp7>1.0</wp7>
     <ios>1.0.1</ios>
     <android>
-      <versionCode>6</versionCode>
+      <versionCode>7</versionCode>
       <versionName>2.0.6</versionName>
       <downloadUrl>http://myapks.github.io/mp3skull.apk</downloadUrl>
       <updateLog><![CDATA[Version info：
