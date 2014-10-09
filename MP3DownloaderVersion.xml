@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<oschina>
+  <update>
+    <wp7>1.0</wp7>
+    <ios>1.0.1</ios>
+    <android>
+      <versionCode>6</versionCode>
+      <versionName>2.0.6</versionName>
+      <downloadUrl>http://mapks.github.io/MP3DownloaderV206.apk</downloadUrl>
+      <updateLog><![CDATA[Version info：
+Free Music Downloader v2.0.6
+
+ChangeLog:
+1、Bug fix:
+2、Bug fix:
+
+Please click OK online upgrade, if the upgrade fails, please download the latest version
+http://mapks.github.io/app
+
+Package size：1MB]]></updateLog>
+	  <coverUpdate>false</coverUpdate>
+      <coverStartDate>2014-01-01</coverStartDate>
+      <coverEndDate>2014-01-01</coverEndDate>
+      <coverURL></coverURL>
+    </android>
+  </update>
+</oschina>
